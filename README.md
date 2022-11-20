@@ -29,6 +29,7 @@ Video: Intel HD 630 | Working |
 Network: Realtek Gigabit | Working |
 Wi-Fi: Apple M.2 WiFi Card | Working |
 Bluetooth: Apple M.2 WiFi Card's Bluetooth | Working |
+Card Reader: | Untested |
 Sleep | Working |
 
 ### Notes:
