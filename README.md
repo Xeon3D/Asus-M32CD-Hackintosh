@@ -1,5 +1,10 @@
 # Asus-M32CD-Hackintosh
 
+Files needed to run Ventura 13.0.1 on this prebuild Asus computer.
+
+![Asus M32CD](https://d1eh9yux7w8iql.cloudfront.net/product_images/509607_f540a862-0c1b-4994-93d3-4306f62f77a3.jpg)
+
+
 ### Hardware Specs:
 
 - **Power Supply**: Delta 300w 80 Plus Bronze.
@@ -33,6 +38,8 @@ I've replaced the original wireless card with the Apple one plus one adapter to 
 I've also removed the GeForce 1050 card that came with it as I'm not planning to run Windows, Linux or High Sierra on this machine.
 
 Swapped the original rotating hard disk with a faster PNY CS900 SSD I had laying around.
+
+Do note that the HD630 can't do 4K@60Hz thru the HDMI port. Maximum you will get is 4K@30
 
 **The config.plist has got it's identifiers stripped out. You have to fill them with your own values (follow dortania's guide if you need help)**
 
